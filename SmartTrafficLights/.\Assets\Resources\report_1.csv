@@ -1,0 +1,2 @@
+NEpisode,EpisodeLenght,EpisodeSteps,Accident,TotalNGoal,NGoalNorth,NGoalSouth,TotalNCarGenerated,NCarGeneratedNorth,NCarGeneratedSouth,TotalNCarBeenWaiting,NCarBeenWaitingNorth,NCarBeenWaitingSouth,TotalAVGTimeToPass,AVGTimeToPassNorth,AVGTimeToPassSouth,TotalAVGTimeWaited,AVGTimeWaitedNorth,AVGTimeWaitedSouth
+1,60,3000,False,21,11,10,23,11,12,13,9,4,10.9,11.46,10.28,4.88,6.08,3.55
